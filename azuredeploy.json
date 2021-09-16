@@ -3,7 +3,8 @@
   "contentVersion": "1.0.0.1",
   "parameters": {
     "siteName": {
-      "type": "string"
+      "type": "string",
+      "value": "BlobEndpoint=https://estaccount2323232.blob.core.windows.net/;QueueEndpoint=https://estaccount2323232.queue.core.windows.net/;FileEndpoint=https://estaccount2323232.file.core.windows.net/;TableEndpoint=https://estaccount2323232.table.core.windows.net/;SharedAccessSignature=sv=2020-08-04&ss=bfqt&srt=c&sp=rtfx&se=2021-09-16T16:47:29Z&st=2021-09-16T08:47:29Z&spr=https&sig=o51GG%2BAsM6DJRzOVS64jjQylZgEEVsZpA%2FIGJoOgs9Q%3D"
     },
     "siteLocation": {
       "type": "string",
