@@ -12,6 +12,7 @@ jobs:
   Job_1:
     name: Agent job 1
     runs-on: ubuntu-20.04
+    environment: Dev/Test2
     steps:
     - uses: actions/checkout@v2
     - name: Use Node 10.16.3
