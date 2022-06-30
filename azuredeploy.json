@@ -8,7 +8,7 @@
     },
     "siteLocation": {
       "type": "string",
-      "defaultValue": "centralus"
+      "defaultValue": "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"
     },
     "deploymentMode": {
       "type": "string",
